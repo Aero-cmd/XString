@@ -903,7 +903,7 @@ struct AssistantPanel: View {
                     Button {
                         onGenerateAI()
                     } label: {
-                        Text("Generate with AI")
+                        Text("Generate withAI")
                             .font(.callout)
                             .opacity(0.75)
                     }
