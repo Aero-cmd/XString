@@ -45,7 +45,7 @@ struct GroqResponse: Codable {
 // MARK: - Groq Client
 
 final class GroqClient {
-    private let apiKey = "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"
+    private let apiKey = "API KEY"
     private let endpoint = URL(string: "https://api.groq.com/openai/v1/chat/completions")!
 
     func chat(messages: [GroqMessage]) async throws -> String {
