@@ -20,7 +20,9 @@ The goal is a browser that feels at home on Apple devices, with smooth performan
 # Cloning the repository (development)
 
 git clone https://github.com/Aero-cmd/XString.git
+
 cd XString
+
 open XString.xcodeproj
 
 # Normal installation:
